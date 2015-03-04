@@ -3,7 +3,7 @@ int led = 13; // Chooses the LED pin
 
 void setup() {                
 
-  pinMode(led, OUTPUT);   // sets LED as output  
+  pinMode(led, OUTPUT);   // sets LED as an output (declares it)   
 }
 
 
