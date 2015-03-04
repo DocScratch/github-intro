@@ -1,10 +1,10 @@
-const int pingPin = 7;
+const int pingPin = 7;//test
 
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(9600);//is this working
 }
 
-void loop()
+void loop()//hm
 {
   
   long duration, inches, cm;
